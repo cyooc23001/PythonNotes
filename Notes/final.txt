@@ -1,0 +1,4 @@
+0: This is a test file to show File IO. 
+1: Oorah Rangers lead the way!
+2: That's why a Marine had the best time on the ACFT two mile?
+3: Semper Fi!

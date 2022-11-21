@@ -1,0 +1,4 @@
+This is a test file to show File IO. 
+Oorah Rangers lead the way!
+That's why a Marine had the best time on the ACFT two mile?
+Semper Fi!
